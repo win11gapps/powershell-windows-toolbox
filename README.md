@@ -1,14 +1,10 @@
-# Powershell Windows Toolbox (Open Source)
+# Powershell Windows Toolbox (under observation)
 
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 Simple and Easy to use Powershell Application(Graphical interface) to debloat windows 10 and 11, to remove Pre-installed useless application, Speedup preformance, disable cortana, Get rid of telementry, disable unnecessary scheduled tasks, Activate office or window, One click install Google Playstore on windows 11 and more... (latest update 2021)
-
-# Open Source (Compatible with windows 10 and 11)
-
-View the Windows Toolbox Source Code here : ```https://ps.microsoft-toolbox.workers.dev```
 
 # Features    
 
